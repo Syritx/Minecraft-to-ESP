@@ -1,0 +1,4 @@
+name: esp
+version: 1.0
+author: Syritx
+main: com.syritx.Main.PluginLauncher
